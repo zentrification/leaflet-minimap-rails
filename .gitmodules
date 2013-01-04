@@ -1,0 +1,3 @@
+[submodule "src/Leaflet-MiniMap"]
+	path = src/Leaflet-MiniMap
+	url = https://github.com/Norkart/Leaflet-MiniMap.git
